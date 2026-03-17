@@ -7,7 +7,7 @@
       "Competitive Programming",
       "Web Developer"
     ],
-    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "heroImage": "/myphoto.jpeg",
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
@@ -16,7 +16,7 @@
     ]
   },
   "about": {
-    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImage": "/myphoto.jpeg",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Full Stack Developer",
     "about": "I am a B.Tech Computer Science student at Lovely Professional University. My expertise lies in the MERN stack and competitive programming using C++. I have a strong foundation in Data Structures and Algorithms, having solved 200+ problems on LeetCode and earned 2 50-day streak badges. I am passionate about creating efficient solutions and building impactful web applications.",
