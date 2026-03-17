@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Gurajala Purna Vidyadhar",
+    "shortDesc": "I am a Full Stack Developer and Competitive Programmer with a focus on core Data Structures and Algorithms. I build efficient web applications and explore complex computational problems.",
+    "titles": [
+      "Full Stack Developer",
+      "Competitive Programming",
+      "Web Developer"
+    ],
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Full Stack Developer",
+    "about": "I am a B.Tech Computer Science student at Lovely Professional University. My expertise lies in the MERN stack and competitive programming using C++. I have a strong foundation in Data Structures and Algorithms, having solved 200+ problems on LeetCode and earned 2 50-day streak badges. I am passionate about creating efficient solutions and building impactful web applications.",
+    "callUrl": "",
+    "resumeUrl": ""
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/vidyadhar-gurajala-122879283"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/purnavidyadhar"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C++",
+      "image": "https://img.icons8.com/color/144/null/c-plus-plus-logo.png",
+      "category": "Languages"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Languages"
+    },
+    {
+      "name": "React",
+      "image": "https://img.icons8.com/plasticine/100/null/react.png",
+      "category": "Frameworks"
+    },
+    {
+      "name": "NodeJS",
+      "image": "https://img.icons8.com/color/144/null/nodejs.png",
+      "category": "Frameworks"
+    },
+    {
+      "name": "Express",
+      "image": "https://img.icons8.com/fluency/144/null/express-js.png",
+      "category": "Frameworks"
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/color/144/null/mongodb.png",
+      "category": "Tools"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/fluency/144/null/mysql-logo.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/color/144/null/git.png",
+      "category": "Tools"
+    },
+    {
+        "name": "PHP",
+        "image": "https://img.icons8.com/officel/160/null/php-logo.png",
+        "category": "Languages"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Arogya NE - Health alert system",
+      "techstack": "ReactJS, Node.js, Express.js, MongoDB, Leaflet",
+      "category": "Full Stack",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "links": {
+        "code": "https://github.com/purnavidyadhar",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Algorithmic File Compressor",
+      "techstack": "C++, Huffman Coding, DSA, File I/O",
+      "category": "DSA",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "links": {
+        "code": "https://github.com/purnavidyadhar",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Lovely Professional University",
+      "degree": "B.Tech Computer Science and Engineering",
+      "duration": "Aug 2023 - Present",
+      "desc": [
+        "CGPA: 7.5",
+        "Course Work: DSA, Computer Networking, Theory of Computation, Operating Systems",
+        "Solved 200+ LeetCode Problems & Earned 2 50-Day Badges",
+        "Round 2 Finalist in HackWithVirtusa 1.0 (24-Hour Hackathon)",
+        "Training: Data Structures & Algorithms – Cipher Schools (Jul '25)"
+      ]
+    },
+    {
+      "institute": "Certifications",
+      "degree": "Professional & Technical Certificates",
+      "duration": "2024 - 2025",
+      "desc": [
+        "Essentials Certification - Automation Anywhere (Nov '25)",
+        "Internet of Things - NPTEL Certification (May '25)",
+        "TCP/IP and Advanced Topics - University of Colorado (Nov '24)",
+        "The Bits and Bytes of Computer Networking - Google (Nov '24)"
+      ]
+    },
+    {
+      "institute": "Bhashyam Junior College",
+      "degree": "Intermediate Education",
+      "duration": "Aug 2021 - Mar 2023",
+      "desc": ["Percentage: 91.2%"]
+    },
+    {
+      "institute": "Bhashyam School",
+      "degree": "Matriculation",
+      "duration": "Aug 2020 - Mar 2021",
+      "desc": ["Percentage: 99%"]
+    }
+  ],
+  "experiences": []
+}
