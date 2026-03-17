@@ -65,17 +65,22 @@ const Hero = ({ mainData }: HeroProps) => {
                         <span className="relative">SPPU Prep</span>
                     </a> */}
 
-                    <ScrollLink
-                        className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-700 hover:dark:bg-violet-800 transition-colors group text-white"
-                        to={'about'}
-                        offset={-60}
-                        smooth={true}
-                        duration={500}
-                        isDynamic={true}
-                    >
-                        About Me
-                        <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
-                    </ScrollLink>
+                    <div className="flex items-center gap-4">
+                        <ScrollLink
+                            className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-700 hover:dark:bg-violet-800 transition-colors group text-white"
+                            to={'about'}
+                            offset={-60}
+                            smooth={true}
+                            duration={500}
+                            isDynamic={true}
+                        >
+                            About Me
+                            <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
+                        </ScrollLink>
+                        <a href="/resume.pdf" download="Resume" className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md border border-violet-600 text-violet-600 hover:bg-violet-600 hover:text-white transition-all">
+                            Download Resume
+                        </a>
+                    </div>
                 </div>
 
                 <div className="relative mx-auto lg:mx-0 mt-12 md:mt-16 lg:mt-0">
