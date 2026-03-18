@@ -22,7 +22,7 @@ const Skills = ({ skillData }: Props) => {
                 ))}
             </div>
 
-            <div className="lg:w-3/4 2xl:w-3/5 my-8 mx-auto md:px-12 grid grid-cols-3 md:grid-cols-4 xl:grid-cols-5 place-items-center gap-8">
+            <div className="lg:w-3/4 2xl:w-3/5 my-8 mx-auto md:px-12 flex flex-wrap items-center justify-center gap-8">
                 {skillData.filter((s: skill) => s.category.toLowerCase() === category.toLowerCase()).map((s: any, i: number) => (
                     <SkillCard key={i} {...s} />
                 ))}
