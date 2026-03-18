@@ -30,7 +30,7 @@ const HomePage = ({ data }: Props) => {
     }
 
     return (
-        <ThemeProvider attribute='class' defaultTheme='light'>
+        <ThemeProvider attribute='class' defaultTheme='dark'>
             <Header logo={data.main.name} />
             <Hero mainData={data.main} />
             <Socials socials={data.socials} />
