@@ -85,6 +85,7 @@
       "name": "Arogya NE - Health alert system",
       "techstack": "ReactJS, Node.js, Express.js, MongoDB, Leaflet",
       "category": "Full Stack",
+      "description": "Designed and implemented a location-based Health alert system for North East India with Role-based access control (RBAC). Reduced manual coordination by ~40% through optimized backend workflows.",
       "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
       "links": {
         "code": "https://github.com/purnavidyadhar",
@@ -96,6 +97,7 @@
       "name": "Algorithmic File Compressor",
       "techstack": "C++, Huffman Coding, DSA, File I/O",
       "category": "DSA",
+      "description": "Built a lossless file compression system using Huffman Coding with frequency-based encoding. Achieved 20–90% compression while maintaining full data integrity across varied datasets.",
       "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
       "links": {
         "code": "https://github.com/purnavidyadhar",
