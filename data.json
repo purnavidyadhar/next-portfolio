@@ -157,7 +157,7 @@
       "title": "Essentials Certification",
       "issuer": "Automation Anywhere",
       "date": "Nov '25",
-      "image": "/logo1.jfif"
+      "image": "/logo1.jpg"
     },
     {
       "title": "Internet of Things",
@@ -169,13 +169,13 @@
       "title": "TCP/IP and Advanced Topics",
       "issuer": "University of Colorado",
       "date": "Nov '24",
-      "image": "/logo3.jfif"
+      "image": "/logo3.jpg"
     },
     {
       "title": "Data Structures & Algorithms",
       "issuer": "Cipher Schools",
       "date": "Jul '25",
-      "image": "/logo2.jfif"
+      "image": "/logo2.jpg"
     }
   ],
   "experiences": []
