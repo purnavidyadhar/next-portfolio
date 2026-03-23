@@ -54,14 +54,22 @@ type social = {
     link: string
 }
 
+type certification = {
+    title: string,
+    issuer: string,
+    date: string,
+    image: string
+}
+
 type data = {
     main: main,
     about: about,
     skills: skill[],
     projects: project[],
     experiences: experience[],
-    educations: education[]
+    educations: education[],
+    certifications: certification[],
     socials: social[]
 }
 
-export type { data, main, about, skill, project, experience, education, social };
+export type { data, main, about, skill, project, experience, education, certification, social };

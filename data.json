@@ -78,6 +78,26 @@
         "name": "PHP",
         "image": "https://img.icons8.com/officel/160/null/php-logo.png",
         "category": "Languages"
+    },
+    {
+      "name": "HTML",
+      "image": "https://img.icons8.com/color/144/null/html-5--v1.png",
+      "category": "Languages"
+    },
+    {
+      "name": "CSS",
+      "image": "https://img.icons8.com/color/144/null/css3.png",
+      "category": "Languages"
+    },
+    {
+      "name": "Tailwind",
+      "image": "https://img.icons8.com/color/144/null/tailwind_css.png",
+      "category": "Frameworks"
+    },
+    {
+      "name": "VS Code",
+      "image": "https://img.icons8.com/color/144/null/visual-studio-code-2019.png",
+      "category": "Tools"
     }
   ],
   "projects": [
@@ -120,17 +140,6 @@
       ]
     },
     {
-      "institute": "Certifications",
-      "degree": "Professional & Technical Certificates",
-      "duration": "2024 - 2025",
-      "desc": [
-        "Essentials Certification - Automation Anywhere (Nov '25)",
-        "Internet of Things - NPTEL Certification (May '25)",
-        "TCP/IP and Advanced Topics - University of Colorado (Nov '24)",
-        "The Bits and Bytes of Computer Networking - Google (Nov '24)"
-      ]
-    },
-    {
       "institute": "Bhashyam Junior College",
       "degree": "Intermediate Education",
       "duration": "Aug 2021 - Mar 2023",
@@ -141,6 +150,32 @@
       "degree": "Matriculation",
       "duration": "Aug 2020 - Mar 2021",
       "desc": ["Percentage: 99%"]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Essentials Certification",
+      "issuer": "Automation Anywhere",
+      "date": "Nov '25",
+      "image": "https://iconlogovector.com/uploads/images/2025/10/image_2025-10-23_104818538.png"
+    },
+    {
+      "title": "Internet of Things",
+      "issuer": "NPTEL Certification",
+      "date": "May '25",
+      "image": "https://www.kindpng.com/picc/m/152-1520962_nptel-logo-hd-png-download.png"
+    },
+    {
+      "title": "TCP/IP and Advanced Topics",
+      "issuer": "University of Colorado",
+      "date": "Nov '24",
+      "image": "https://seeklogo.com/images/U/university-of-colorado-logo-PNG0.png"
+    },
+    {
+      "title": "Data Structures & Algorithms",
+      "issuer": "Cipher Schools",
+      "date": "Jul '25",
+      "image": "https://img.icons8.com/color/144/null/code.png"
     }
   ],
   "experiences": []

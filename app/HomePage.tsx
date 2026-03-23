@@ -8,7 +8,8 @@ import Socials from "@/components/Socials";
 import Experiences from "@/components/experiences/Experiences";
 import Contact from "@/components/Contact";
 import CallToAction from "@/components/CallToAction";
-import Header from "./Header";
+import Header from "./Header"
+import Certifications from "@/components/certifications/Certifications";
 import Footer from "./Footer";
 
 import { ThemeProvider } from 'next-themes'
@@ -36,6 +37,7 @@ const HomePage = ({ data }: Props) => {
             <Socials socials={data.socials} />
             <About aboutData={data.about} name={data.main.name} />
             <Skills skillData={data.skills} />
+            <Certifications certificationData={data.certifications} />
             <Projects projectsData={data.projects} />
             <Experiences experienceData={data.experiences} educationData={data.educations} />
             <Contact />
