@@ -135,6 +135,7 @@
       "institute": "Lovely Professional University",
       "degree": "B.Tech Computer Science and Engineering",
       "duration": "Aug 2023 - Present",
+      "image": "/logo4.png",
       "desc": [
         "CGPA: 7.5",
         "Course Work: DSA, Computer Networking, Theory of Computation, Operating Systems",
@@ -147,12 +148,14 @@
       "institute": "Bhashyam Junior College",
       "degree": "Intermediate Education",
       "duration": "Aug 2021 - Mar 2023",
+      "image": "/logo5.jpg",
       "desc": ["Percentage: 91.2%"]
     },
     {
       "institute": "Bhashyam School",
       "degree": "Matriculation",
       "duration": "Aug 2020 - Mar 2021",
+      "image": "/logo5.jpg",
       "desc": ["Percentage: 99%"]
     }
   ],

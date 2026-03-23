@@ -28,7 +28,8 @@ type education = {
     institute: string,
     degree: string,
     duration: string,
-    desc?: string[]
+    desc?: string[],
+    image?: string
 }
 
 type main = {
