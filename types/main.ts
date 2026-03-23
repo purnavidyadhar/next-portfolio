@@ -61,10 +61,24 @@ type certification = {
     image: string
 }
 
+type leetcode = {
+    username: string,
+    totalSolved: number,
+    totalQuestions: number,
+    easySolved: number,
+    mediumSolved: number,
+    hardSolved: number,
+    ranking: string,
+    contestRating: number,
+    badges: number,
+    streak: number
+}
+
 type data = {
     main: main,
     about: about,
     skills: skill[],
+    leetcode?: leetcode,
     projects: project[],
     experiences: experience[],
     educations: education[],
@@ -72,4 +86,4 @@ type data = {
     socials: social[]
 }
 
-export type { data, main, about, skill, project, experience, education, certification, social };
+export type { data, main, about, skill, project, experience, education, certification, leetcode, social };
